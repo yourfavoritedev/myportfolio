@@ -1,37 +1,31 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.b71af335.chunk.css",
-    "main.js": "/myportfolio/static/js/main.176bca47.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.176bca47.chunk.js.map",
+    "main.css": "/myportfolio/static/css/main.df5cad38.chunk.css",
+    "main.js": "/myportfolio/static/js/main.3c5369ad.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.3c5369ad.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.c21d50fe.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.c21d50fe.js.map",
     "static/js/2.31fac480.chunk.js": "/myportfolio/static/js/2.31fac480.chunk.js",
     "static/js/2.31fac480.chunk.js.map": "/myportfolio/static/js/2.31fac480.chunk.js.map",
     "index.html": "/myportfolio/index.html",
-    "precache-manifest.48e1040b276c9273e80467eeccc40fa5.js": "/myportfolio/precache-manifest.48e1040b276c9273e80467eeccc40fa5.js",
+    "precache-manifest.8d953711daaa1812e5113b0cdb19e83b.js": "/myportfolio/precache-manifest.8d953711daaa1812e5113b0cdb19e83b.js",
     "service-worker.js": "/myportfolio/service-worker.js",
-    "static/css/main.b71af335.chunk.css.map": "/myportfolio/static/css/main.b71af335.chunk.css.map",
+    "static/css/main.df5cad38.chunk.css.map": "/myportfolio/static/css/main.df5cad38.chunk.css.map",
     "static/js/2.31fac480.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.31fac480.chunk.js.LICENSE.txt",
-    "static/media/algocover.jpg": "/myportfolio/static/media/algocover.9679548e.jpg",
-    "static/media/cash.png": "/myportfolio/static/media/cash.67f6f3f8.png",
-    "static/media/d3cover.jpg": "/myportfolio/static/media/d3cover.ca1aeb9a.jpg",
-    "static/media/dualshock.png": "/myportfolio/static/media/dualshock.da000908.png",
-    "static/media/expensify.png": "/myportfolio/static/media/expensify.a6fcd716.png",
-    "static/media/floqast.jpg": "/myportfolio/static/media/floqast.972b1d85.jpg",
-    "static/media/hashtag.png": "/myportfolio/static/media/hashtag.b27f566b.png",
-    "static/media/investcloud.jpg": "/myportfolio/static/media/investcloud.b10abada.jpg",
-    "static/media/movie.png": "/myportfolio/static/media/movie.3bbca59f.png",
-    "static/media/App.css": "/myportfolio/static/media/particles.69308156.jpg",
-    "static/media/smiley.png": "/myportfolio/static/media/smiley.5639a7e6.png",
-    "static/media/sony.png": "/myportfolio/static/media/sony.4a7fca54.png",
-    "static/media/sonyuniverse.png": "/myportfolio/static/media/sonyuniverse.a9f5c92d.png",
-    "static/media/systemcover.jpg": "/myportfolio/static/media/systemcover.5cef7526.jpg",
-    "static/media/uci.jpg": "/myportfolio/static/media/uci.f13e0ed0.jpg"
+    "static/media/algocover.jpg": "/myportfolio/static/media/algocover.14b170dd.jpg",
+    "static/media/d3cover.jpg": "/myportfolio/static/media/d3cover.c7d05bcf.jpg",
+    "static/media/expensify.png": "/myportfolio/static/media/expensify.2d9e7c3f.png",
+    "static/media/floqast.jpg": "/myportfolio/static/media/floqast.450153a7.jpg",
+    "static/media/investcloud.jpg": "/myportfolio/static/media/investcloud.312a90b9.jpg",
+    "static/media/App.css": "/myportfolio/static/media/particles.9654e1ea.jpg",
+    "static/media/sonyuniverse.png": "/myportfolio/static/media/sonyuniverse.b70d801c.png",
+    "static/media/systemcover.jpg": "/myportfolio/static/media/systemcover.ed057055.jpg",
+    "static/media/uci.jpg": "/myportfolio/static/media/uci.a4a87e2d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c21d50fe.js",
     "static/js/2.31fac480.chunk.js",
-    "static/css/main.b71af335.chunk.css",
-    "static/js/main.176bca47.chunk.js"
+    "static/css/main.df5cad38.chunk.css",
+    "static/js/main.3c5369ad.chunk.js"
   ]
 }
