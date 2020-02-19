@@ -2,7 +2,7 @@ import React from 'react';
 import Section from '../../common/Section';
 import Tile from '../../common/Tile';
 import floqastImage from '../../../assets/images/floqast.jpg';
-import sonyImage from '../../../assets/images/sony.png';
+import sonyImage from '../../../assets/images/sony.jpg';
 import investcloudImage from '../../../assets/images/investcloud.jpg';
 import hashtagIcon from '../../../assets/images/hashtag.png';
 import movieIcon from '../../../assets/images/movie.png';
