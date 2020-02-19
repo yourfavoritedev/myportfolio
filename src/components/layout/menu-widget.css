@@ -1,0 +1,59 @@
+.widget{
+	position: sticky;
+	bottom: 0;
+	left: 0;
+	z-index: 100;
+}
+.menu-button{
+  transition: fill 500ms;
+  position: sticky;
+}
+.outer-circle {
+	transform-origin: 60px 60px;
+	transition: transform 2s cubic-bezier(0.620, 0.005, 0.000, 1.005);
+}
+.opened-circle {
+	transform-origin: 120px 120px;
+	transition: all 0.5 ease;
+}
+.opened-circle .option:hover{
+  fill: rgb(183, 226, 255);
+  transition: fill 0.5 ease;
+}
+.opened-circle .option{
+  fill:#AED6F1;
+	transition: fill 0.5 ease;
+	pointer-events: bounding-box;
+}
+.button {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	max-width: 12rem;
+	background: none;
+	border: 0 none;
+	font-size: 0;
+	cursor: pointer;
+}
+.button svg {
+  width: 100%;
+  height: auto;
+}
+
+button:focus{
+	outline: 0;
+	border: none;
+}
+	
+.button:hover .menu-button {
+    fill: #AED6F1;
+}
+		
+.button:hover .outer-circle {
+  transform: rotate(360deg);
+}
+
+.widget-wrapper{
+  transform: translate(-10px, 10px);
+}
+
