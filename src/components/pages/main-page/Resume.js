@@ -19,13 +19,13 @@ const Resume = () => {
   const tiles = [
     {
       image: floqastImage,
-      company: 'Floqast',
+      company: 'FloQast',
       link: 'https://floqast.com',
-      title: 'Software Enginner',
+      title: 'Software Enginner - Tech Lead',
       period: 'Since October 2019',
       location: 'Sherman Oaks, CA',
       description:
-        'My team works on building amazing user experiences for FloQast users. I help carry out the top-to-bottom design and implementation of our Document Request module. From database-design to component optimization, I play a main role in integrating every feature of our application. We create automation tools to push FinTech forward.',
+        'My team works on building amazing user experiences for FloQast users. I help carry out the top-to-bottom design and implementation of our Email Campaign module. From database-design to component optimization, I play a lead role in integrating every feature of our application. We create automation tools to push FinTech forward.',
       icon: hashtagIcon,
     },
     {

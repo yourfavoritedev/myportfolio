@@ -1,4 +1,4 @@
-body{
+body {
   margin: 0px;
 }
 .App {
@@ -18,16 +18,16 @@ body{
   top: 0;
   left: 0;
   z-index: 1;
-  padding: 60px 0px;
+  padding: 70px 0px 70px;
 }
-.Link{
+.Link {
   color: #9980fa;
-  text-decoration: none;;
+  text-decoration: none;
 }
-.slider{
+.slider {
   position: relative;
 }
-.slider .nav-buttons{
+.slider .nav-buttons {
   display: flex;
   justify-content: flex-end;
   position: sticky;
@@ -41,19 +41,19 @@ body{
   margin-bottom: 45px;
   align-items: center;
 }
-.tile .content{
+.tile .content {
   padding-left: 20px;
   margin-left: 20px;
 }
-.tile .content .company{
+.tile .content .company {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
 }
-.tile .content .company .icon{
+.tile .content .company .icon {
   width: 30px;
 }
-.tile .content .company a{
+.tile .content .company a {
   text-decoration: none;
   font-size: 1.5em;
   color: #37c;
@@ -68,7 +68,7 @@ body{
   font-weight: bold;
 }
 
-.tile .content div{
+.tile .content div {
   margin-bottom: 5px;
 }
 
@@ -87,12 +87,12 @@ body{
   color: #333;
   position: relative;
 }
-.title-content{
+.title-content {
   display: inline-block;
   position: relative;
 }
 .title-content:before {
-  content: ' ';
+  content: " ";
   background: #333;
   width: 80px;
   display: inline-block;
@@ -103,7 +103,7 @@ body{
   margin: 0 10px;
 }
 .title-content:after {
-  content: ' ';
+  content: " ";
   background: #333;
   width: 80px;
   display: inline-block;
@@ -113,7 +113,7 @@ body{
   top: 50%;
   margin: 0 10px;
 }
-.container{
+.container {
   margin: 0 auto;
   padding: 0;
   position: relative;
@@ -123,21 +123,21 @@ body{
   font-size: 1.25em;
   margin: 0px 3px;
 }
-.scalable-image{
+.scalable-image {
   margin: 50px 15px;
 }
 .contact-section .description {
-  font-size: 1.25em
+  font-size: 1.25em;
 }
-.scalable-image img{
+.scalable-image img {
   transition: all 0.5s ease-in-out;
   cursor: pointer;
 }
-.scalable-image img:hover{
+.scalable-image img:hover {
   transform: scale(1.15);
-  transition: all 0.3s ease-in-out
+  transition: all 0.3s ease-in-out;
 }
-.flex-wrapper{
+.flex-wrapper {
   display: flex;
   justify-content: center;
 }
