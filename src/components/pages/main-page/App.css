@@ -1,6 +1,6 @@
 .HomeHeader {
   position: relative;
-  height: 110vh;
+  height: 100vh;
   width: 100%;
   overflow: hidden;
   font-size: 2rem;
@@ -10,26 +10,23 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: left;
+  display: flex;
+  justify-content: center;
+  margin-top: 3.5rem;
+  overflow: hidden;
 }
 .HomeHeader-content {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  margin: 25vh 13em;
-  opacity: .9;
-  z-index: 2;
+  max-width: 700px;
+  text-align: center;
 }
-.HomeHeader-content-name{
+.HomeHeader-content-name {
   font-size: 4.5rem;
   font-family: Raleway;
   text-transform: uppercase;
   font-weight: bold;
-  margin-bottom: 0.75em
+  margin-bottom: 0.75em;
 }
-.HomeHeader-description{
+.HomeHeader-description {
   margin-top: 0.75em;
   font-size: 1em;
   line-height: 1.6em;

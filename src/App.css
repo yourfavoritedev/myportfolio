@@ -5,14 +5,14 @@ body {
   text-align: center;
   font-family: Nunito;
   margin: 0;
+  width: 100%;
+  overflow: hidden;
 }
 .subtitle {
   margin-bottom: 10px;
 }
 .content-overlay {
-  background: #000;
-  opacity: 0.35;
-  height: 110vh;
+  height: 100%;
   width: 100%;
   position: absolute;
   top: 0;
