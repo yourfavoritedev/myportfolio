@@ -5,7 +5,6 @@ import particleBackground from '../../../assets/images/particles.jpg';
 const HomeHeader = () => {
   return (
     <Section useParallax={true} backgroundImage={particleBackground}>
-      <div className="content-overlay"></div>
       <div className="HomeHeader parallax">
         <div className="HomeHeader-content">
           <div className="subtitle">

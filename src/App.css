@@ -14,15 +14,6 @@ body {
   display: block;
   overflow: auto;
 }
-.content-overlay {
-  height: 100%;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  padding: 70px 0px 70px;
-}
 .Link {
   color: #9980fa;
   text-decoration: none;
