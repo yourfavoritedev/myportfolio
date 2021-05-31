@@ -1,5 +1,5 @@
 .widget {
-  position: sticky;
+  position: fixed;
   bottom: 0;
   left: 0;
   z-index: 100;
@@ -17,18 +17,15 @@
   transition: all 0.5 ease;
 }
 .opened-circle .option:hover {
-  fill: rgb(183, 226, 255);
+  fill: #1a1a1a;
   transition: fill 0.5 ease;
 }
 .opened-circle .option {
-  fill: #aed6f1;
+  fill: #2e3134;
   transition: fill 0.5 ease;
   pointer-events: bounding-box;
 }
 .button {
-  position: absolute;
-  bottom: 0;
-  left: 0;
   max-width: 12rem;
   background: none;
   border: 0 none;
@@ -45,8 +42,12 @@ button:focus {
   border: none;
 }
 
+.button .menu-button {
+  fill: #2e3134;
+}
+
 .button:hover .menu-button {
-  fill: #aed6f1;
+  fill: #1a1a1a;
 }
 
 .button:hover .outer-circle {

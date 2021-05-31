@@ -6,10 +6,13 @@ body {
   font-family: Nunito;
   margin: 0;
   width: 100%;
-  overflow: hidden;
 }
 .subtitle {
   margin-bottom: 10px;
+}
+.content {
+  display: block;
+  overflow: auto;
 }
 .content-overlay {
   height: 100%;
@@ -23,6 +26,7 @@ body {
 .Link {
   color: #9980fa;
   text-decoration: none;
+  cursor: pointer;
 }
 .slider {
   position: relative;
