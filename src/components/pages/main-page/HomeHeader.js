@@ -12,7 +12,7 @@ const HomeHeader = () => {
           </div>
           <div className="HomeHeader-content-name">Chris Ngo</div>
           <div className="subtitle">
-            I write code, think about data, and create user-friendly
+            I write code, analyze data, and create user-friendly
             experiences. Currently I'm a Software Engineer - Tech Lead at{' '}
             <a className="Link" href="https://floqast.com">
               FloQast

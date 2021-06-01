@@ -29,17 +29,6 @@ const Resume = () => {
       icon: hashtagIcon,
     },
     {
-      image: sonyImage,
-      company: 'Sony Pictures',
-      link: 'https://www.sonypictures.com/',
-      title: 'Web Developer',
-      period: 'Fall 2017 - September 2019',
-      location: 'Culver City, CA',
-      description:
-        'Sony helped me find my passion for software-development. Initially I worked on maintaining marketing sites that were built on vanilla JavaScript. By 2018, it was time for us to introduce a much more elegant way of developing and sustatining our websites. This enabled me to apply my React and MERN stack knowledge extensively. My team and I were able to refactor all 7 portals to this new architecture within a year.',
-      icon: movieIcon,
-    },
-    {
       image: investcloudImage,
       company: 'InvestCloud Inc.',
       link:
@@ -51,6 +40,17 @@ const Resume = () => {
         'InvestCloud is an LA-based startup that creates digital solutions for the banking industry. I led the development for a rich front-end prototype used to secure a partnership with Citibank. This included both a desktop and native application for both the U.S. and Asia. Serving as the lead-dev, I expedited sprints by spearheading feature-development, code-reviews and release-management.',
       icon: cloudIcon,
     },
+    {
+      image: sonyImage,
+      company: 'Sony Pictures',
+      link: 'https://www.sonypictures.com/',
+      title: 'Web Developer',
+      period: 'Fall 2017 - Fall 2018',
+      location: 'Culver City, CA',
+      description:
+        'Sony helped me find my passion for software-development. Initially I worked on maintaining marketing sites that were built on vanilla JavaScript. By 2018, it was time for us to introduce a much more elegant way of developing and sustatining our websites. This enabled me to apply my React and MERN stack knowledge extensively. My team and I were able to refactor all 7 portals to this new architecture within a year.',
+      icon: movieIcon,
+    },    
     {
       image: sonyuniverseImage,
       company: 'Sony Universe',
